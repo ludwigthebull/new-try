@@ -29,7 +29,7 @@ class ChatForm extends React.Component {
               className="btn btn-warning btn-sm"
               type="submit"
               onClick={::this.handleSubmit}>
-              Say it!
+              Say no!
             </button>
           </span>
         </div>
