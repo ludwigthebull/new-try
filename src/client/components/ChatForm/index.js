@@ -23,7 +23,7 @@ class ChatForm extends React.Component {
             autoFocus
             className="form-control input-sm"
             ref="input"
-            placeholder="Say something" />
+            placeholder="Say something to LawBot" />
           <span className="input-group-btn">
             <button
               className="btn btn-warning btn-sm"
