@@ -1,5 +1,7 @@
 import React from 'react';
 
+<div>yoyoyo asshole</div>
+
 class ChatForm extends React.Component {
   constructor(props) {
     super(props);
