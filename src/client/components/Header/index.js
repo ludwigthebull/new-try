@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Header = (props) => {
-  return <header>Talk with LawBot!</header>
+  return <header>Ficken</header>
 };
 
 export default Header;
